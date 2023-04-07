@@ -8,4 +8,7 @@ public class Day2Demo {
 
 	}
 
+	public void divid(int a, int b) {
+		System.out.println(a / b);
+	}
 }
